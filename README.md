@@ -36,4 +36,8 @@ Eu sou a Paula Fernandes, desenvolvedora de software, e apaixonada por tecnologi
 
 ##
 
-![Snake animation](https://github.com/paulatatiele/paulatatiele/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulatatiele/paulatatiele/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulatatiele/paulatatiele/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulatatiele/paulatatiele/output/github-contribution-grid-snake.svg">
+</picture>
