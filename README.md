@@ -33,3 +33,7 @@ Eu sou a Paula Fernandes, desenvolvedora de software, e apaixonada por tecnologi
    <a href="https://www.linkedin.com/in/paulatafernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulatatiele95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+##
+
+![Snake animation](https://github.com/paulatatiele/paulatatiele/blob/output/github-contribution-grid-snake.svg)
