@@ -1,9 +1,9 @@
-Olá visitante,
+Olá visitante 🤝, seja bem vindo(a)
 ##
 Eu sou a Paula Fernandes, desenvolvedora de software, e apaixonada por tecnologia 💻
 
 - 🔭 Hoje trabalho com back-end 📊, mas contribuo de forma significativa no front-end 🌐
-- 🌱 Estudando Python 🐍 (nem só de Java ☕ viverá o homem 😂)
+- 🌱 Estudando Python 🐍 (nem só de Java ☕, viverá o homem 😂)
 - ⚡ Fun fact: I'm not a singer 😂
  ##
 <div>
