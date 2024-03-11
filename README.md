@@ -1,16 +1,12 @@
-### Hi there 👋
+Olá visistante,
+Eu sou a Paula Fernandes, desenvolvedora de software, e apaixonada por tecnologia 💻
 
-<!--
-**paulatatiele/paulatatiele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com back-end 📊, mas contribuo de forma significativa no front-end 🌐
+- 🌱 Estudando Python 🐍 (nem só de Java ☕ viverá o homem 😂)
+- ⚡ Fun fact: I'm not a singer 😂
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <a href="https://github.com/paulatatiele">
+    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=paulatatiele&show_icons=true&theme=onedark&rank_icon=github&hide=contribs,issues"/>
+    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatatiele&hide_progress=true&show_icons=true&theme=onedark"/>
+  </div>
