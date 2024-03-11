@@ -8,8 +8,8 @@ Eu sou a Paula Fernandes, desenvolvedora de software, e apaixonada por tecnologi
  ##
 <div>
   <a href="https://github.com/paulatatiele">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=paulatatiele&show_icons=true&theme=onedark&rank_icon=github&hide=contribs,issues"/>
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatatiele&hide_progress=true&show_icons=true&theme=onedark"/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=paulatatiele&show_icons=true&theme=onedark&rank_icon=github&hide=contribs,issues"/>
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulatatiele&hide_progress=true&show_icons=true&theme=onedark"/>
 </div>
     
 ##
